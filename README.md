@@ -1,2 +1,2 @@
-# template-repository-conference
-template repository for conference proceedings
+# Electromagnetic geophysics across the scales
+
