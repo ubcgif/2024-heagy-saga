@@ -1,6 +1,6 @@
 ---
 title: 'Electromagnetic geophysics across the scales'
-abstract: THIS IS ABSTRACT
+abstract: 
  
 ---
 
