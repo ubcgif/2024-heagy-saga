@@ -2,7 +2,7 @@
 
 _Lindsey J. Heagy_
 
-![thumbnail](./abstract/thumbnail.png)
+![thumbnail](abstract/thumbnail.png)
 
 ## Summary 
 
